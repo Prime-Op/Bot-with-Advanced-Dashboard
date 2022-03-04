@@ -1,14 +1,14 @@
 {
-  "main_token": "", 
-  "mongodb_url": "",
+  "main_token": "OTA0Mzg2NTQ0ODE3ODE1NTgz.YX6xmg.A9-ZQXfMWkl7YFSBWMDAr5Nvlc4", 
+  "mongodb_url": "mongodb+srv://testserver:0C27ZsFRbaoKkKgz@cluster0.cr626.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "alexflipnoteApiKey":"",
-  "developers": [""],
+  "developers": ["822463571065307137"],
   "datadogApiKey": "",
   "dashboard":"true", 
   "prefix":"!",
   "arc":"",
   "youtube_key":"",
-  "cat_api_key":"",
-  "webhook_id":"",
-  "webhook_url":""
+  "cat_api_key":"af63132c-5929-4d90-bebc-f2fa38502d96",
+  "webhook_id":"949164489088045147",
+  "webhook_url":"https://discord.com/api/webhooks/949164489088045147/sXzbfIyMRvqEhQKT-vsjuCaTWS1vnmx4fKLmH54j1nX1gURH0Z6LqpGFzz6FunSSOE4O"
 }
